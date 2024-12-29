@@ -2,5 +2,6 @@
 
 **Projeto desenvolvido durante o cusso de front-end "Formação Front-end - HTML, CSS, JavaScript, React e +".**
 
-[Ver mais](https://gustavoalbonico.github.io/multistep-form-react/)
-<p><img src="public/multistep-form-react.png"><p>
+<a href="https://gustavoalbonico.github.io/multistep-form-react/" target="_blank" >Ver mais<a>
+
+<a href="https://gustavoalbonico.github.io/multistep-form-react/" target="_blank" ><img src="public/multistep-form-react.png"><a>
